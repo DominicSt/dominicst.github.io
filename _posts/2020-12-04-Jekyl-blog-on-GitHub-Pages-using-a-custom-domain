@@ -2,9 +2,9 @@
 Quick instructions on how to create a Jekyl blog via GitHib pages and redirecting your custom domain from AWS to it
 
 Sources:
-- https://benwiz.com/blog/deploy-github-pages-with-aws-route-53-and-https/
--https://christopherkade.com/posts/subdomain-githubpages
-- https://talk.hyvor.com/blog/creating-a-static-site-blog-with-jekyll-and-github-pages/
+- [https://benwiz.com/blog/deploy-github-pages-with-aws-route-53-and-https/](https://benwiz.com/blog/deploy-github-pages-with-aws-route-53-and-https/)
+- [https://christopherkade.com/posts/subdomain-githubpages](https://christopherkade.com/posts/subdomain-githubpages)
+- [https://talk.hyvor.com/blog/creating-a-static-site-blog-with-jekyll-and-github-pages/](https://talk.hyvor.com/blog/creating-a-static-site-blog-with-jekyll-and-github-pages/)
 
 
 # Steps
@@ -49,6 +49,7 @@ Sources:
 4. Use `bundler exec jekyll serve` to run locally on [http://localhost:4000](http://localhost:4000)
 5. Edit the config file `_config.yml` 
 6. Start creating blog posts in the *_posts* folder, file names should be in the `YEAR-MONTH-DAY-title.md` format
+
 
 
 
