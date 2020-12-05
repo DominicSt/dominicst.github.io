@@ -28,10 +28,11 @@ twitter_username: DominicSt
 github_username:  DominicSt
 
 # Build settings
-theme: minima
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-analytics
 # Exclude from processing.
 # The following items will not be processed, by default.
