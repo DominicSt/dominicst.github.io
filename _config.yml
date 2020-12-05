@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
+  - jekyll-analytics
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -52,3 +52,10 @@ plugins:
 #   - vendor/YYcache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-BS6KYTZF2V          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
