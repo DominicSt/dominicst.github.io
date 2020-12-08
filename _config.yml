@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dominic Stevenson's personal website / blog covering all things data such as data engineering and data architecture.
 twitter_username: dominicst
 github_username: dominicst
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: "contrast"
 search: true
 
 # Build settings
