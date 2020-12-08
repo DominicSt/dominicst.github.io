@@ -117,4 +117,4 @@ tag_archive:
 
 
 head_scripts:
-  - /assets/js/_main.js
+  - /assets/js/_analytics.js
