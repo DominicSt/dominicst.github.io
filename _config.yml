@@ -115,4 +115,6 @@ tag_archive:
 
 # SEO
 
-google_site_verification: "G-4MTSMYRQ4Q"
+
+head_scripts:
+  - /assets/js/_main.js.js
