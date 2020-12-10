@@ -118,7 +118,7 @@ tag_archive:
 google-site-verification: "omNIsgumP1xg9OlH0_W3ndT2wCk1Dq43jLUrDrMXUYQ"
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-4MTSMYRQ4Q"
     anonymize_ip: false # default
