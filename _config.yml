@@ -116,5 +116,9 @@ tag_archive:
 # SEO
 
 google-site-verification: "omNIsgumP1xg9OlH0_W3ndT2wCk1Dq43jLUrDrMXUYQ"
-head_scripts:
-  - /assets/js/_analytics.js
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-4MTSMYRQ4Q"
+    anonymize_ip: false # default
