@@ -1,3 +1,13 @@
+---
+title: "Use of data within government"
+categories:
+  - Blog
+  - Reading
+tags:
+  - data
+  - data quality
+  - government
+---
 
 I work for a [consultancy](https://6point6.co.uk/) which has a large number of public sector clients. Recently one of the directors said this key but brief Slack message 
 

@@ -1,3 +1,15 @@
+---
+title: "Hosting a Jekyl blog on GitHub pages using a custom AWS domain"
+categories:
+  - Guides
+tags:
+  - Jekyl
+  - GitHub pages
+  - AWS
+  - Amazon Web Services
+  - Route 53
+---
+
 # Introduction
 Quick instructions on how to create a Jekyl blog via GitHib pages and redirecting your custom domain from AWS to it
 

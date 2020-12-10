@@ -1,3 +1,15 @@
+---
+title: "Read this week: 7th-11th December 2020"
+categories:
+  - Blog
+  - Reading
+tags:
+  - AWS
+  - Python
+  - Docker
+  - Cache
+---
+
 # Background
 
 List of what I've read in the last week with a quick summary on what I've learnt. This is largely used as a diary for me, so that I can go back over articles I find interesting. It also helps me memorise and take in what I am reading by writing about it.
