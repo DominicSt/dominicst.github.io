@@ -1,5 +1,5 @@
 ---
-title: "Read this week: 7th-11th December 2020"
+title: "Weekly Summary: 7th-11th December 2020"
 categories:
   - Blog
   - Reading
@@ -9,8 +9,6 @@ tags:
   - Docker
   - Cache
 ---
-
-# Background
 
 List of what I've read in the last week with a quick summary on what I've learnt. This is largely used as a diary for me, so that I can go back over articles I find interesting. It also helps me memorise and take in what I am reading by writing about it.
 
@@ -38,4 +36,3 @@ Whilst it's fairly obvious the reasons why a distributed cache is useful i.e. fo
 - Write-Back - Data is written directly to the cache then persisted to permanent storage afterwards. This results in lower latency however can result in data loss if cache fails before data is persisted.
 
 Whilst I was only familiar with Redis and Memcached it also mentions the following other popular caches: Eh-cache, Riak, Hazelcast.
-
