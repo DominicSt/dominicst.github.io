@@ -1,5 +1,5 @@
 ---
-title: "Weekly Summary: 7th-11th December 2020"
+title: "Weekly Summary: 14th-20th December 2020"
 categories:
   - Blog
   - Reading
